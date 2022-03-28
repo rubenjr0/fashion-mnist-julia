@@ -19,7 +19,7 @@ using CUDA
 ```julia
 using Plots
 gr()
-theme(:dark);
+theme(:juno);
 ```
 
 # Data loading
